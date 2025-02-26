@@ -1,6 +1,3 @@
-//here the settime out has gone to the the queue and it is indepent to the other Queue operation too it does not matter 
-// It is independent to the  the setTime not takes the exact time as beacuse two timer running at the same time hence need to clear time 
-
 
 function getImportantData() {
     return new Promise((res, rej) => {
