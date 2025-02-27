@@ -1,0 +1,40 @@
+variables
+let const var
+string 
+All methods 
+Execution Context 
+memory phase 
+Boolean operator || &&
+window 
+Stack
+heap
+premitive copy by values
+Non premitive copy by reference
+Function 
+function as parameter
+unavailabe value for the const and let
+Lexical Scope
+Closer
+High order Function 
+function as variable
+function as parameter
+callback function
+function after function
+call back hell
+then
+.catch
+async\await
+new Promise
+res rej
+settimeout
+map 
+filter 
+reduce
+Objects\ key value pair
+["key"] or dot 
+Object.keys
+Object.values etc..
+push pop unshift shift
+slice
+splice
+
